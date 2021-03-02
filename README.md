@@ -8,5 +8,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=k239i&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![f](https://img.shields.io/github/followers/k239i?label=Followers&style=social)
-![t](![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftiiusi))
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftiiusi)
 ![tf](https://img.shields.io/twitter/follow/tiiusi?style=social)
