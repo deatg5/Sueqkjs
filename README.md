@@ -1,7 +1,7 @@
 # Sueqkjs(tiiusi-coder)
 ![sueqk GitHub stats](https://github-readme-stats.vercel.app/api?username=Sueqkjs&count_private=true&show_icons=true&theme=dracula)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sueqkjs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Sueqkjs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![f](https://img.shields.io/github/followers/Sueqkjs?label=Followers&style=social)
